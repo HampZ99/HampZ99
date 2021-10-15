@@ -10,6 +10,6 @@ What I've learned so far:
 - Bootstrap 
 - Node.js
 - SQL (SSMS)
-- React.js
+- React/React Native
 
 ...and more to come!
