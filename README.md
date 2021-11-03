@@ -3,7 +3,7 @@ I’m currently studying to become a JavaScript-developer at IT-Högskolan in Go
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HampZ99&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HampZ99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HampZ99&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 What I've learned so far:
 - HTML 
