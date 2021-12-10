@@ -11,8 +11,8 @@ What I've learned so far:
 - Native JavaScript
 - Design & UX
 - Vue.js 
-- Bootstrap 
 - Node.js
+- MongoDB
 - SQL (SSMS)
 - React/React Native
 
