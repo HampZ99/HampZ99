@@ -15,5 +15,7 @@ What I've learned so far:
 - MongoDB
 - SQL (SSMS)
 - React/React Native
+- .NET 5/.NET 6
+- .NET MAUI
 
 ...and more to come!
