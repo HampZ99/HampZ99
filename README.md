@@ -14,6 +14,7 @@ What I've learned so far:
 - SQL (SSMS)
 - React
 - React Native
+- Agile Development
 - .NET 5 
 - .NET 6
 - .NET MAUI
