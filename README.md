@@ -12,7 +12,7 @@ What I've learned so far:
 - Vue.js
 - Node.js
 - MongoDB
-- SQL (SSMS)
+- SQL/PostgreSQL
 - React/React Native
 - .NET 5/.NET 6/.NET MAUI
 - Java
